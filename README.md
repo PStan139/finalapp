@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## My Final App
+### Paul Stanek
 
 You can use the [editor on GitHub](https://github.com/PStan139/finalapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
